@@ -8,9 +8,8 @@ satoriは，そのような問題に対するソリューションの1つとし�
 マイクに入力される音声を読み取り，感情パラメータをリアルタイムで表示します！
 
 ## Release
-- Windows : ./satori.exe から起動できます．
-- Android : flutter Record のバグ修正中，近日修正，デプロイ予定
-- IOS     : エミュレータ準備次第実装予定
+- Windows : [ここからダウンロードできます．](https://github.com/masa1357/Satori_Windows/releases/tag/v1.0.0)
+- Web     : 開発中
 
 ## Note
 - API制限の問題で正常に動作しない場合があります．ご了承ください．

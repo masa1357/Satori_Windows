@@ -1,3 +1,9 @@
+
+
+
+https://github.com/user-attachments/assets/ac1cd683-90cd-4b6f-9de5-d0a946a9cdb6
+
+
 # satori
 
 あなたの感情を可視化します！
